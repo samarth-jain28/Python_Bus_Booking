@@ -1,4 +1,4 @@
-#Python Bus Booking System
+# Python Bus Booking System
 
 Description:
 This Python Bus Booking System is a comprehensive solution for managing bus reservations, designed with Tkinter for a user-friendly interface and SQLite for efficient data management. It offers a range of functionalities to streamline the booking process and enhance the user experience.
